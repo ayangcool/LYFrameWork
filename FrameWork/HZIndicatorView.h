@@ -11,4 +11,7 @@
 @interface HZIndicatorView : UIView
 @property (nonatomic, assign) CGFloat progress;
 @property (nonatomic, assign) int viewMode;//显示模式
+
+//线上修改
+
 @end
